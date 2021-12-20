@@ -4,6 +4,8 @@ A front-end application created with react.
 
 ### `Installation Instructions`
 
+- Fork and clone this respository  
+
 
 
 ## `Component #1`
@@ -30,6 +32,12 @@ A front-end application created with react.
                   </figcaption>
                </div>
 ```
+
+## `Testing`
+
+
+### `Code for Testing`
+
 
 
 
